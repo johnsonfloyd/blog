@@ -1,3 +1,4 @@
 # jason-blog
 
-[博客列表](https://api.github.com/repos/johnsonfloyd/jason-blog/issues)
+  * [读书笔记](https://github.com/johnsonfloyd/jason-blog/labels/book)
+  * [摄影](https://github.com/johnsonfloyd/jason-blog/labels/photograph)
